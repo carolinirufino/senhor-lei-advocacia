@@ -27,7 +27,7 @@ h1, h2 , h3 {
 
 .secao-background-capa {
     min-height: 500px;
-    background-image: url(./imagens/capa.jpg');
+    background-image: url('capa.jpg');
     background-size: cover;
 }
 
@@ -54,7 +54,7 @@ h1, h2 , h3 {
 .secao-background-divisao {
     padding: 50px 0;
     text-align: center;
-    background-image: url(./imagens/fundo.jpg);
+    background-image: url('fundo.jpg');
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
